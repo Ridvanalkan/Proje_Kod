@@ -14,5 +14,6 @@ erkek-erkek Jumper kablolar
 
 
 Proje Linkleri:
+https://www.youtube.com/watch?v=6MMH9jubS5E
 https://www.tinkercad.com/things/5f4lnIU2dHa-arduinosicaklikolcervetrafiklambasi/editel
 Proje Sahibi: 86 Rıdvan Alkan
